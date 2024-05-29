@@ -1,0 +1,413 @@
+085643130501 WA
+
+1.  [9, 8, 9, 7, 8, 5, 9, 4, 6, 10, 2, 4, 6]
+
+   Keluaran:  keuntungan tertinggi!!
+
+   keuntungan maks
+
+   jawaban 6 
+   = Harga jual 10 – harga beli 4
+  
+
+
+2. Kepala divisi TIM BISNIS menanyakan perkembangan proyek tim IT, tetapi atasan dari TIM IT anda meminta berbohong tentang progress pekerjaan yang dilakukan! apa jawaban anda dan alasannya? (jangan menggunakan AI!)
+
+
+
+3. sajikan dari json berikut:
+a. header= dibuatOleh|kodeLJKPermintaan|kodeCabangPermintaan|kodeTujuanPermintaan|tanggalPermintaan
+b. dataPokokDebitur= namaDebitur|namaLengkap|npwp|bentukBu|goPublic|bentukBuKet|tempatPendirian
+c. kelompokPengurusPemilik= namaLJK|namaSesuaiIdentitas|nomorIdentitas
+
+sajikan dalam format .xls dan .pdf
+
+
+
+{
+    "header": {
+        "kodeReferensiPengguna": "00187",
+        "tanggalHasil": "20230914131117",
+        "idPermintaan": "465351739",
+        "idPenggunaPermintaan": "4055136",
+        "dibuatOleh": "ha he ho hi hu",
+        "kodeLJKPermintaan": "620133",
+        "kodeCabangPermintaan": "001",
+        "kodeTujuanPermintaan": "01",
+        "tanggalPermintaan": "20230914131114",
+        "totalBagian": "1",
+        "nomorBagian": "1"
+    },
+    "perusahaan": {
+        "nomorLaporan": "762/IDEB/0104620133/2023",
+        "posisiDataTerakhir": "202307",
+        "tanggalPermintaan": "20230914131114",
+        "parameterPencarian": {
+            "namaBadanUsaha": "",
+            "npwp": "603796095501010",
+            "tempatPendirian": "",
+            "tanggalAktaPendirian": "",
+            "nomorAktaPendirian": ""
+        },
+        "dataPokokDebitur": [
+            {
+                "namaDebitur": "ngeng ngeng ngeng",
+                "namaLengkap": "ngeng ngeng ngeng",
+                "npwp": "603796095501010",
+                "bentukBu": "18",
+                "goPublic": "T",
+                "bentukBuKet": "Perseroan Terbatas",
+                "tempatPendirian": "Sragen",
+                "noAktaPendirian": "03",
+                "tglAktaPendirian": "20220615",
+                "pelapor": "002",
+                "pelaporKet": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "tanggalDibentuk": "20230909121428",
+                "tanggalUpdate": "",
+                "alamat": "Jl Gajahmada No 50 01 01",
+                "kelurahan": "GANDASULI",
+                "kecamatan": "BREBES",
+                "kabKota": "0907",
+                "kabKotaKet": "Kab. Brebes ",
+                "kodePos": "52215",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "95",
+                "tglAktaTerakhir": "20230614",
+                "sektorEkonomi": "410111",
+                "sektorEkonomiKet": "Konstruksi Perumahan Sederhana Bank Tabungan Negara",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            },
+            {
+                "namaDebitur": "PT ngeng ngeng ngeng",
+                "namaLengkap": "PT ngeng ngeng ngeng",
+                "npwp": "603796095501010",
+                "bentukBu": "18",
+                "goPublic": "T",
+                "bentukBuKet": "Perseroan Terbatas",
+                "tempatPendirian": "KAB BREBES",
+                "noAktaPendirian": "03",
+                "tglAktaPendirian": "20220615",
+                "pelapor": "620174",
+                "pelaporKet": "PT BPRS Harta Insan Karimah ",
+                "tanggalDibentuk": "20221007170348",
+                "tanggalUpdate": "20230808145938",
+                "alamat": "GAJAHMADA NO 50 RT 001 RW 007",
+                "kelurahan": "GANDASULI",
+                "kecamatan": "BREBES",
+                "kabKota": "0907",
+                "kabKotaKet": "Kab. Brebes ",
+                "kodePos": "52215",
+                "negara": "ID",
+                "negaraKet": "Indonesia",
+                "noAktaTerakhir": "03",
+                "tglAktaTerakhir": "20220615",
+                "sektorEkonomi": "410112",
+                "sektorEkonomiKet": "Konstruksi Perumahan Sederhana Perumnas",
+                "pemeringkat": "",
+                "pemeringkatKet": "",
+                "peringkat": "",
+                "tanggalPemeringkatan": ""
+            }
+        ],
+        "kelompokPengurusPemilik": [
+            {
+                "kodeLJK": "002",
+                "namaLJK": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "boril",
+                        "nomorIdentitas": "3272036109790101",
+                        "kodeJenisKelamin": "P",
+                        "jenisKelamin": "PEREMPUAN",
+                        "kodePosisiPekerjaan": "04",
+                        "posisiPekerjaan": "PEMILIK - Komisaris",
+                        "prosentaseKepemilikan": "1",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "Jl Pramuka No 20 RT 07 RW02",
+                        "kelurahan": "CIKONDANG",
+                        "kecamatan": "CITAMIANG",
+                        "kodeKota": "0193",
+                        "kota": "Kota Sukabumi "
+                    },
+                    {
+                        "namaSesuaiIdentitas": "sule",
+                        "nomorIdentitas": "3376020501820102",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "99",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "Jl Melati Gg 2 No 1 RT 03 RW 05",
+                        "kelurahan": "KEJAMBON",
+                        "kecamatan": "TEGAL TIMUR",
+                        "kodeKota": "0994",
+                        "kota": "Kota Tegal "
+                    }
+                ]
+            },
+            {
+                "kodeLJK": "620174",
+                "namaLJK": "PT BPRS Harta Insan Karimah ",
+                "pengurusPemilik": [
+                    {
+                        "namaSesuaiIdentitas": "tukul",
+                        "nomorIdentitas": "3309053112700016",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "02",
+                        "posisiPekerjaan": "PEMILIK - Direktur",
+                        "prosentaseKepemilikan": "0",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "WINONG BARU RT 001 RW 01",
+                        "kelurahan": "WINONG",
+                        "kecamatan": "BOYOLALI",
+                        "kodeKota": "0924",
+                        "kota": "Kab. Boyolali "
+                    },
+                    {
+                        "namaSesuaiIdentitas": "habib jafar",
+                        "nomorIdentitas": "3376020501820102",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "01",
+                        "posisiPekerjaan": "PEMILIK-Direktur Utama/Presiden Direktur",
+                        "prosentaseKepemilikan": "100",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "JL MELATI GG 2 NO 1 RT 003 RW 005",
+                        "kelurahan": "KEJAMBON",
+                        "kecamatan": "TEGAL TIMUR",
+                        "kodeKota": "0994",
+                        "kota": "Kota Tegal "
+                    },
+                    {
+                        "namaSesuaiIdentitas": "jokowi",
+                        "nomorIdentitas": "3322112306741001",
+                        "kodeJenisKelamin": "L",
+                        "jenisKelamin": "LAKI-LAKI",
+                        "kodePosisiPekerjaan": "11",
+                        "posisiPekerjaan": "PEMILIK - Ketua",
+                        "prosentaseKepemilikan": "0",
+                        "kodeStatusPengurusPemilik": "1",
+                        "statusPengurusPemilik": "Aktif",
+                        "alamat": "PERUM KUTILANGSARI C 16 RT 001 RW 009",
+                        "kelurahan": "SUSUKAN",
+                        "kecamatan": "UNGARAN TIMUR",
+                        "kodeKota": "0901",
+                        "kota": "Kab. Semarang"
+                    }
+                ]
+            }
+        ],
+        "ringkasanFasilitas": {
+            "plafonEfektifKreditPembiayaan": "4035200000",
+            "plafonEfektifLc": "0",
+            "plafonEfektifGyd": "0",
+            "plafonEfektifSec": "0",
+            "plafonEfektifLain": "0",
+            "plafonEfektifTotal": "4035200000",
+            "bakiDebetKreditPembiayaan": "3404100000",
+            "bakiDebetLc": "0",
+            "bakiDebetGyd": "0",
+            "bakiDebetSec": "0",
+            "bakiDebetLain": "0",
+            "bakiDebetTotal": "3404100000",
+            "krediturBankUmum": "1",
+            "krediturBPR/S": "1",
+            "krediturLp": "0",
+            "krediturLainnya": "0",
+            "kualitasTerburuk": "1",
+            "kualitasBulanDataTerburuk": "202209"
+        },
+        "fasilitas": {
+            "suratBerharga": [],
+            "kreditPembiayan": [
+                {
+                    "ljk": "620174",
+                    "ljkKet": "PT BPRS Harta Insan Karimah",
+                    "cabang": "001",
+                    "cabangKet": "Pusat",
+                    "bakiDebet": "1291000000",
+                    "tanggalDibentuk": "20221007170553",
+                    "tanggalUpdate": "20230808150055",
+                    "bulan": "07",
+                    "tahun": "2023",
+                    "sifatKreditPembiayaan": "9",
+                    "sifatKreditPembiayaanKet": "Lainnya",
+                    "jenisKreditPembiayaan": "P99",
+                    "jenisKreditPembiayaanKet": "Lainnya (Dengan Perjanjian)",
+                    "akadKreditPembiayaan": "070",
+                    "akadKreditPembiayaanKet": "Piutang Murabahah",
+                    "noRekening": "",
+                    "frekPerpjganKreditPembiayaan": "0",
+                    "noAkadAwal": "01",
+                    "tanggalAkadAwal": "20220929",
+                    "noAkadAkhir": "01",
+                    "tanggalAkadAkhir": "20220929",
+                    "tanggalAwalKredit": "20220929",
+                    "tanggalMulai": "20220929",
+                    "tanggalJatuhTempo": "20230929",
+                    "kategoriDebiturKode": "UT",
+                    "kategoriDebiturKet": "Debitur Usaha Mikro, Kecil, dan Menengah – Meneng",
+                    "jenisPenggunaan": "1",
+                    "jenisPenggunaanKet": "Modal Kerja",
+                    "sektorEkonomi": "410112",
+                    "sektorEkonomiKet": "Konstruksi Perumahan Sederhana Perumnas",
+                    "kreditProgramPemerintah": "10",
+                    "kreditProgramPemerintahKet": "Kredit yang bukan merupakan kredit/pembiayaan dalam rangka program pemerintah",
+                    "lokasiProyek": "0907",
+                    "lokasiProyekKet": "Kab. Brebes ",
+                    "valutaKode": "IDR",
+                    "sukuBungaImbalan": "36",
+                    "jenisSukuBungaImbalan": "3",
+                    "jenisSukuBungaImbalanKet": "Margin",
+                    "kualitas": "1",
+                    "kualitasKet": "Lancar",
+                    "jumlahHariTunggakan": "0",
+                    "nilaiProyek": "1300000000",
+                    "plafonAwal": "1300000000",
+                    "plafon": "1335200000",
+                    "realisasiBulanBerjalan": "0",
+                    "nilaiDalamMataUangAsal": "",
+                    "kodeSebabMacet": "",
+                    "sebabMacetKet": "",
+                    "tanggalMacet": "",
+                    "tunggakanPokok": "0",
+                    "tunggakanBunga": "0",
+                    "frekuensiTunggakan": "0",
+                    "denda": "0",
+                    "frekuensiRestrukturisasi": "0",
+                    "tanggalRestrukturisasiAkhir": "",
+                    "kodeCaraRestrukturisasi": "",
+                    "restrukturisasiKet": "",
+                    "kondisi": "00",
+                    "kondisiKet": "Fasilitas Aktif",
+                    "tanggalKondisi": "",
+                    "keterangan": "",
+            
+                    "tahunBulan23Kol": "1",
+                    "tahunBulan24Ht": "",
+                    "tahunBulan24": "202308",
+                    "tahunBulan24Kol": "",
+                    "agunan": [
+                        {
+                            "jenisAgunanKet": "Rumah ",
+                            "nilaiAgunanMenurutLJK": "869652000",
+                            "prosentaseParipasu": "",
+                            "tanggalUpdate": "20230612031524",
+                            "nomorAgunan": "21875",
+                            "jenisPengikatan": "04",
+                            "jenisPengikatanKet": "Surat Kuasa Membebankan Hak Tanggungan (SKMHT)",
+                            "tanggalPengikatan": "20220929",
+                            "namaPemilikAgunan": "HADIYAH BINTI JUSIN",
+                            "alamatAgunan": "DESA PEGEJUGAN KAB BREBES",
+                            "kabKotaLokasiAgunan": "0907",
+                            "kabKotaLokasiAgunanKet": "Kab. Brebes ",
+                            "tglPenilaianPelapor": "20220929",
+                            "peringkatAgunan": "",
+                            "kodeLembagaPemeringkat": "",
+                            "lembagaPemeringkat": "",
+                            "buktiKepemilikan": "531",
+                            "nilaiAgunanNjop": "1242360000",
+                            "nilaiAgunanIndep": "",
+                            "namaPenilaiIndep": "",
+                            "asuransi": "T",
+                            "tanggalPenilaianPenilaiIndependen": "",
+                            "keterangan": ""
+                        }
+                    ],
+                    "penjamin": []
+                },
+                {
+                    "ljk": "002",
+                    "ljkKet": "PT Bank Rakyat Indonesia (Persero) Tbk",
+                    "cabang": "130",
+                    "cabangKet": "BRI KC TEGAL-PANCASILA",
+                    "bakiDebet": "2113100000",
+                    "tanggalDibentuk": "20230909121525",
+                    "tanggalUpdate": "",
+                    "bulan": "08",
+                    "tahun": "2023",
+                    "sifatKreditPembiayaan": "9",
+                    "sifatKreditPembiayaanKet": "Lainnya",
+                    "jenisKreditPembiayaan": "P99",
+                    "jenisKreditPembiayaanKet": "Lainnya (Dengan Perjanjian)",
+                    "akadKreditPembiayaan": "000",
+                    "akadKreditPembiayaanKet": "Konvensional",
+                    "noRekening": "",
+                    "frekPerpjganKreditPembiayaan": "0",
+                    "noAkadAwal": "160",
+                    "tanggalAkadAwal": "20230821",
+                    "noAkadAkhir": "160",
+                    "tanggalAkadAkhir": "20230821",
+                    "tanggalAwalKredit": "20230821",
+                    "tanggalMulai": "20230821",
+                    "tanggalJatuhTempo": "20250821",
+                    "kategoriDebiturKode": "UK",
+                    "kategoriDebiturKet": "Debitur Usaha Mikro, Kecil, dan Menengah – Kec",
+                    "jenisPenggunaan": "2",
+                    "jenisPenggunaanKet": "Investasi",
+                    "sektorEkonomi": "410112",
+                    "sektorEkonomiKet": "Konstruksi Perumahan Sederhana Perumnas",
+                    "kreditProgramPemerintah": "10",
+                    "kreditProgramPemerintahKet": "Kredit yang bukan merupakan kredit/pembiayaan dalam rangka program pemerintah",
+                    "lokasiProyek": "0907",
+                    "lokasiProyekKet": "Kab. Brebes ",
+                    "valutaKode": "IDR",
+                    "sukuBungaImbalan": "11.75",
+                    "jenisSukuBungaImbalan": "2",
+                    "jenisSukuBungaImbalanKet": "Suku Bunga Floating",
+                    "kualitas": "1",
+                    "kualitasKet": "Lancar",
+                    "jumlahHariTunggakan": "0",
+                    "nilaiProyek": "3857142857",
+                    "plafonAwal": "2700000000",
+                    "plafon": "2700000000",
+                    "realisasiBulanBerjalan": "2113100000",
+                    "nilaiDalamMataUangAsal": "",
+                    "kodeSebabMacet": "",
+                    "sebabMacetKet": "",
+                    "tanggalMacet": "",
+                    "tunggakanPokok": "0",
+                    "tunggakanBunga": "0",
+                    "frekuensiTunggakan": "0",
+                    "denda": "0",
+                    "frekuensiRestrukturisasi": "0",
+                    "tanggalRestrukturisasiAkhir": "",
+                    "kodeCaraRestrukturisasi": "",
+                    "restrukturisasiKet": "",
+                    "kondisi": "00",
+                    "kondisiKet": "Fasilitas Aktif",
+                    "tanggalKondisi": "",
+                    "keterangan": "",
+         
+                    "tahunBulan24Ht": "0",
+                    "tahunBulan24": "202308",
+                    "tahunBulan24Kol": "1",
+                    "agunan": [],
+                    "penjamin": []
+                }
+            ],
+            "lc": [],
+            "garansiYgDiberikan": [],
+            "fasilitasLain": []
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
